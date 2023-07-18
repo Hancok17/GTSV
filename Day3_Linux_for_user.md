@@ -1,7 +1,7 @@
 1. what's workspace manager?
 2. what's Folder manager?
 3. what are commands ?
-4. what does the $ and # , ~ sign's mean?
+4. what does the $ and # , ~(tilda)sign's mean?
 5.  Define the following command?
      - ls() -r ,-a ,-l
      - cd 
