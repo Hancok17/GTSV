@@ -29,7 +29,7 @@
      - chmod o+x filename
      - chmod -x filename
      - chmod a+rwx,u-rw,g-x,o-xw filename 
-19. + is used to add permisson while - is used for?
+19. "+" is used to add permisson while - is used for?
 20. how do you use numbers in chmod?
         - the first digit is for user T/F
         - the second digit is for 
