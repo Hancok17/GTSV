@@ -34,5 +34,12 @@
         -the first digit is for user T/F
         -the second digit is for 
         -the third digit is for ?
-
+21. whats the deafult package manager for debian system ? list 2
+22. whats package metadata?
+23. how do you use the package manager to download package, whats repository[kali.org]?
+24. whats advanced package tool/apt/?
+25. what do we mean by apt install , update,upgrade,search ,remove ,purge?
+26. what's Debian package manager(Dpkg),what are .deb file?
+27. what's Dpkg -i,-r,-p?
+28. what's the difference between apt update,upgrade?
 
