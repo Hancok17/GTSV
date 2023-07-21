@@ -14,26 +14,26 @@
 14. explain each part of drwxr-xr-x?
 15. whats the chmod +x  used for ?
 16. How do you use chomd command 
-     -1 =?
+     - 1 =?
      -  =w
-     -4 =?
+     - 4 =?
 17. whats are these abbrevations for
-     -other =? 
-     -all =?
-     -user =?
-     -group =? 
+     - other =? 
+     - all =?
+     - user =?
+     - group =? 
 18. Define this term,and try to come up with a command by urself?
-     -chmod a+x filename
-     -chmod u+x filename
-     -chmod g+x filename
-     -chmod o+x filename
-     -chmod -x filename
-     -chmod a+rwx,u-rw,g-x,o-xw filename 
+     - chmod a+x filename
+     - chmod u+x filename
+     - chmod g+x filename
+     - chmod o+x filename
+     - chmod -x filename
+     - chmod a+rwx,u-rw,g-x,o-xw filename 
 19. + is used to add permisson while - is used for?
 20. how do you use numbers in chmod?
-        -the first digit is for user T/F
-        -the second digit is for 
-        -the third digit is for ?
+        - the first digit is for user T/F
+        - the second digit is for 
+        - the third digit is for ?
 21. whats the deafult package manager for debian system ? list 2
 22. whats package metadata?
 23. how do you use the package manager to download package, whats repository[kali.org]?
