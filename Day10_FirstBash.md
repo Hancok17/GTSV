@@ -25,15 +25,13 @@
 20. bash variables are string by default T/F
 21. whats the use of the set variable ?
 22. whats the difference betweeen ${variable} and $variable?
- whats bash,what are its uses list 4{sssd}?
-23 whats script and what are its uses?
-24. whats sh and what was its orginal name?
-25. which one is the right way of declaring a variable in bash scripting?
+23.whats bash,what are its uses list 4{sssd}?
+24 whats script and what are its uses?
+25. whats sh and what was its orginal name?
+26. which one is the right way of declaring a variable in bash scripting?
            - name=drago
            - name = drago
-26. bash variables are string by default T/F
-27. whats the use of the set variable ?
-28. whats the difference betweeen ${variable} and $variable?
-29. what are system variables?
-
-24. what are system variables?
+27. bash variables are string by default T/F
+28. whats the use of the set variable ?
+29. whats the difference betweeen ${variable} and $variable?
+30. what are system variables?
