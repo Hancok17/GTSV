@@ -16,3 +16,13 @@
 13. what's alphabetic comparssion?
 14. we will use $((operation)) when?
 15. when are spaces needed in if else statments?
+16.  whats bash,what are its uses list 4{sssd}?
+17. whats script and what are its uses?
+18. whats sh and what was its orginal name?
+19. which one is the right way of declaring a variable in bash scripting?
+           - name=drago
+           - name = drago
+20. bash variables are string by default T/F
+21. whats the use of the set variable ?
+22. whats the difference betweeen ${variable} and $variable?
+23. what are system variables?
